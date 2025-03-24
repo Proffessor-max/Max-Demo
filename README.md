@@ -1,1 +1,2 @@
-# Max-Demo
+# Max-Demo 
+This my first git repository.
